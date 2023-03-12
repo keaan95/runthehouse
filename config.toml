@@ -1,8 +1,8 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://www.RUNTHEHOUSE.co.uk"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "RUNTHEHOUSE"
 disableKinds = ["section", "categories"]
-disqusShortname = ""
+disqusShortname = "cranky-mayer-a22b3f-netlify-app"
 pygmentsCodeFences = false
 pygmentsUseClasses = false
 paginate = 999
@@ -47,19 +47,7 @@ minify = true
 [permalinks]
   posts = "/:year/:month/:day/:filename"
   pages = "/:slug"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML"]
-
-[outputFormats.RSS]
-  mediatype = "application/rss"
-  baseName = "atom"
-
-[outputFormats.JSON]
-  mediatype = "application/json"
-  baseName = "feed"
-
+  
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
@@ -68,7 +56,7 @@ minify = true
 [menu]
   [[menu.main]]
     identifier = "index"
-    name       = "Index"
+    name       = "blog"
     url        = "/"
     weight     = -111
 
@@ -78,8 +66,9 @@ minify = true
     url        = "/about/"
     weight     = -20
 
+
   [[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/atom.xml"
+    identifier = "tags"
+    name       = "Tags"
+    url        = "www.strava.com/athletes/70255468"
     weight     = -10

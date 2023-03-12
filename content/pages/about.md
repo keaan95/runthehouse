@@ -2,22 +2,8 @@
 title: About
 ---
 
-# Lines
+# RUNTHEHOUSE
 
-Lines is a minimalistic Hugo blogging theme.
+I'm a long-distance runner.
 
-### Features
-
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~2kb of CSS)
+Someone once asked me. What do I think about when running. Well here it is.
