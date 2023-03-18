@@ -2,6 +2,7 @@ baseURL = "https://www.RUNTHEHOUSE.co.uk"
 languageCode = "en-us"
 title = "RUNTHEHOUSE"
 disableKinds = ["section", "categories"]
+googleAnalytics = "G-4Q78ZRT7GE"
 disqusShortname = "cranky-mayer-a22b3f-netlify-app"
 pygmentsCodeFences = false
 pygmentsUseClasses = false
@@ -69,6 +70,6 @@ minify = true
 
   [[menu.main]]
     identifier = "tags"
-    name       = "Tags"
-    url        = "www.strava.com/athletes/70255468"
+    name       = "strava"
+    url        = "https://www.strava.com/athletes/70255468"
     weight     = -10
